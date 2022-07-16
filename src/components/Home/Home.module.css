@@ -1,0 +1,28 @@
+.main__container{
+    display: flex;
+    
+}
+
+.main__container__box{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.image__box {
+    width: 50%;
+}
+
+.image__box img {
+    width: 100%;
+}
+
+.form__container {
+    width: 400px;
+    margin: auto;
+}
+
+@media only screen and (max-width: 960px){
+    .image__box{
+        display: none;
+    }
+}

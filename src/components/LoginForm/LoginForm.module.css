@@ -1,0 +1,15 @@
+.login__form a {
+    text-decoration: none;
+    color: #8699DA;
+    font-weight: 800;
+}
+
+.login__form button {
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+.login__form form p {
+    color: red;
+    font-size: 12px;
+}
